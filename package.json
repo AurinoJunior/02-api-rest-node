@@ -5,10 +5,11 @@
   "license": "MIT",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "knex": "node --loader tsx ./node_modules/.bin/knex",
+    "knex": "node --no-warnings --loader tsx ./node_modules/.bin/knex",
     "lint": "eslint src -e .ts"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "fastify": "4.18.0",
     "knex": "^2.4.2",
     "sqlite3": "^5.1.6"
