@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "tsx watch src/server.ts",
+    "knex": "node --loader tsx ./node_modules/.bin/knex",
     "lint": "eslint src -e .ts"
   },
   "dependencies": {
