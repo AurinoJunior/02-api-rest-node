@@ -1,7 +1,7 @@
 ## Requisitos funcionais
 
 - [x] O usuario deve poder criar uma nova transação;
-- [ ] O usuario deve poder obter um resumo da sua conta;
+- [x] O usuario deve poder obter um resumo da sua conta;
 - [x] O usuario deve poder listar todas transações que já ocorreram;
 - [x] O usuario deve poder visualizar uma transação única;
 
