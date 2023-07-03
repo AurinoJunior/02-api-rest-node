@@ -6,8 +6,6 @@ import { knex } from '../database'
 import { checkSessionIdExists } from '../middlewares/checkSessionIdExists'
 
 export async function transactionsRoutes(app: FastifyInstance) {
-  console.log(process.env.DATABASE_URL)
-
   app.get(
     '/',
     {
