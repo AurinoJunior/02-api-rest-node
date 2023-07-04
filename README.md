@@ -11,16 +11,17 @@
    </a>
 </p>
 
-> Segundo projeto do bootcamp ignite nodejs da Rocketseat 🚀🚀
-
----
-
 📍 **Conteúdo**
 
+- [Contexto](#📘-contexto)
 - [Tecnologias](#💻-tecnologias)
-- [Instalação](#🛠️-instalação)
+- [Iniciando o projeto](#🎮-iniciando-o-projeto)
 - [Como usar](#🥃-como-usar)
 - [Licença](#🗒️-licença)
+
+## 📘 Contexto
+
+Segundo projeto do bootcamp ignite nodejs da Rocketseat 🚀🚀
 
 ## 💻 Tecnologias
 
@@ -35,7 +36,7 @@
 - supertest
 - eslint
 
-## 🛠️ Instalação
+## 🎮 Iniciando o projeto
 
 1. Clonar o repositório com git
 2. Instalar todas as dependencias com `yarn`
