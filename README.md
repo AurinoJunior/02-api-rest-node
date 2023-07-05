@@ -13,17 +13,17 @@
 
 📍 **Conteúdo**
 
-- [Contexto](#📘-contexto)
-- [Tecnologias](#💻-tecnologias)
-- [Iniciando o projeto](#🎮-iniciando-o-projeto)
-- [Como usar](#🥃-como-usar)
-- [Licença](#🗒️-licença)
+- [Contexto](#blue_book-contexto)
+- [Tecnologias](#computer-tecnologias)
+- [Iniciando o projeto](#video_game-iniciando-o-projeto)
+- [Como usar](#beers-como-usar)
+- [Licença](#page_with_curl-licença)
 
-## 📘 Contexto
+## :blue_book: Contexto
 
 Segundo projeto do bootcamp ignite nodejs da Rocketseat 🚀🚀
 
-## 💻 Tecnologias
+## :computer: Tecnologias
 
 - node
 - Typescript
@@ -36,7 +36,7 @@ Segundo projeto do bootcamp ignite nodejs da Rocketseat 🚀🚀
 - supertest
 - eslint
 
-## 🎮 Iniciando o projeto
+## :video_game: Iniciando o projeto
 
 1. Clonar o repositório com git
 2. Instalar todas as dependencias com `yarn`
@@ -46,7 +46,7 @@ Segundo projeto do bootcamp ignite nodejs da Rocketseat 🚀🚀
 
 > para rodar os testes uso um arquivo de variaveis de ambiente diferente `.env.test`
 
-## 🥃 Como usar
+## :beers: Como usar
 
 Para criar uma transação
 
@@ -98,6 +98,6 @@ curl --request GET \
 - [x] Deve ser possivel identificarmos o usuário entre as requisições;
 - [x] O usuário só pode visualizar transações o qual ele criou;
 
-## 🗒️ Licença
+## :page_with_curl: Licença
 
 MIT
